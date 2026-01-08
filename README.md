@@ -163,7 +163,7 @@ int main(void) {
 }
 ```
 ### Результаты работы программы 
-
+https://github.com/amaliaberdukova11-09/Lab--3/blob/4b602257017060b6f775e41867a7fc4dc7f1c45a/%D0%B7%D0%B0%D0%B4%D0%B03.png
 ---
 
 ## Задача 4 – размеченное объединение  
