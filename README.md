@@ -106,7 +106,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--3/blob/3c553f92326f444fe33025f12b4be874c1fa28d9/%D0%B7%D0%B0%D0%B4%D0%B02.png
 ---
 
 ## Задача 3 – перечисление дней недели  
