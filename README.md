@@ -253,7 +253,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--3/blob/26235dec5a039a4eec790fdc6faef617a9e58415/%D0%B7%D0%B0%D0%B4%D0%B04.png
 ---
 
 ## Задача 5 – ввод и хранение данных о студентах  
