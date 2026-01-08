@@ -52,7 +52,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--3/blob/ff47d9d117b15c0fbecbcf0fd925f34f49de429e/%D0%B7%D0%B0%D0%B4%D0%B01.png
 --- 
 
 ## Задача 2 – побайтовая распечатка числа  
