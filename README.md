@@ -519,7 +519,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--3/blob/991a3cbfd56aa7c04eda1dcd01209fb8f598aa56/%D0%B7%D0%B0%D0%B4%D0%B07.png
 ---
 
 ## Задача 8 – ввод и вывод через enum и union  
