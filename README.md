@@ -357,7 +357,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы 
-
+https://github.com/amaliaberdukova11-09/Lab--3/blob/d662873f7235c3fb0e8987fcc04327d3340ae025/%D0%B7%D0%B0%D0%B4%D0%B05.%D0%90%D0%91%D0%9B.png
 ---
 
 ## Задача 6 – управление состояниями системы через enum  
