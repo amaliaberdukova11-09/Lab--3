@@ -604,6 +604,7 @@ int main(void) {
 
 ### Результаты работы программы 
 https://github.com/amaliaberdukova11-09/Lab--3/blob/c647aae26938022c22ca0ac4902f0c256e635c83/%D0%B7%D0%B0%D0%B4%D0%B08.1.png
+https://github.com/amaliaberdukova11-09/Lab--3/blob/fc48f9573b539a3d9e6d0b8f68f456ecbd4cdee8/%D0%B7%D0%B0%D0%B4%D0%B08.2.png
 ---
 
 ### Информация о студенте  
